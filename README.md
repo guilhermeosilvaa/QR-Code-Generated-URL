@@ -45,7 +45,7 @@ Basta escanear com o celular para abrir a URL.
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/guilhermeosilvaa/QR-Code-Generated-URL.git)
 
 Acesse a pasta:
 
